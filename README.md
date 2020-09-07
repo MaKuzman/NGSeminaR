@@ -1,4 +1,5 @@
 # NGSeminaR  
+You can re watch this seminar at https://youtu.be/zrqIhS2zUFk?list=PLj4Zs4bjsI9rtj3_0LcbJ3t6LUVQbAtAI&t=3 
 
 To follow the seminar, you will need to have access to Rstudio and R.  
 I recommend you to use the Rstudio on the cloud, available at: https://rstudio.cloud/plans/free  . Please make an account and log in. 
